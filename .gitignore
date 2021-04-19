@@ -1,4 +1,5 @@
 Fnt/
+__pycache__/
 *.txt
 *.png
 *.h5
