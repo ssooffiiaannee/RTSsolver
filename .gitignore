@@ -1,0 +1,10 @@
+Fnt/
+__pycache__/
+haarcas*
+*.html
+*.npy
+*.txt
+*.png
+*.h5
+*.jpg
+*.odt
