@@ -1,5 +1,7 @@
 Fnt/
 __pycache__/
+haarcas*
+*.npy
 *.txt
 *.png
 *.h5
